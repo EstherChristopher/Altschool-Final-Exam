@@ -1,1 +1,1 @@
-https://esther-christopher-altschool-exam.netlify.app/HelloWorld
+https://esther-christopher-altschool-exam.netlify.app
